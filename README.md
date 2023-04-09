@@ -1,6 +1,10 @@
 # Date Range Picker with Next.js
 
-This is an implementation of a Date Range Picker built with Next.js and Tailwind and deployed at Vercel.
+This is an implementation of a Date Range Picker built with Next.js. It includes the following tech stack:
+
+- Next.js
+- TailwindCSS
+- Vercel
 <!-- This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
