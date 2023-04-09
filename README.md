@@ -8,6 +8,13 @@ This is an implementation of a Date Range Picker built with Next.js. It includes
 - Next.js
 - TailwindCSS
 - Vercel
+
+## Features
+
+- Displays a placeholder text if no date range is selected for better visibility
+- Displays shortcuts for quick date range selection e.g., **Last 7 Days**, **This Month**, and **Last Month**. 
+
+
 <!-- This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
