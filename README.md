@@ -1,5 +1,8 @@
 # Date Range Picker with Next.js
 
+<img width="1178" alt="CleanShot 2023-04-09 at 17 02 27@2x" src="https://user-images.githubusercontent.com/12712988/230771342-9eb8f8fb-5bae-4ab0-ac1f-3453c32a67e1.png">
+
+
 This is an implementation of a Date Range Picker built with Next.js. It includes the following tech stack:
 
 - Next.js
